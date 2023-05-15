@@ -21,4 +21,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/notifications-page-react/assets/13519212/e7002cb3-fce5-4ea4-92de-82130262bb24)
